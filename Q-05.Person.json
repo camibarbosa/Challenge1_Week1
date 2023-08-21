@@ -1,0 +1,23 @@
+{
+    "_id": {
+      "$oid": "64e37aed5a329270344c7189"
+    },
+    "name": "Camila",
+    "age": 21,
+    "phone": 1234567890,
+    "height": 1.55,
+    "email": "camila@gmail.com",
+    "cpf": "000.000.000-00",
+    "birthday": {
+      "$date": "2001-09-18T00:00:00.000Z"
+    },
+    "address": {
+      "zip": 56789,
+      "street": "123 Street",
+      "neighborhood": "Downtown",
+      "complement": "Apt 123",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brasil"
+    }
+  }
